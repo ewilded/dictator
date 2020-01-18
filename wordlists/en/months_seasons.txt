@@ -1,0 +1,17 @@
+january
+february
+march
+april
+may
+june
+july
+august
+september
+october
+november
+december
+summer
+spring
+winter
+autumn
+fall
